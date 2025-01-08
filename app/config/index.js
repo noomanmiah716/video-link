@@ -1,3 +1,3 @@
 export const API_URL = "https://erosback.vercel.app";
 
-export const site = "joinnvideo-call.online";
+export const site = "video-link-nine.vercel.app";
